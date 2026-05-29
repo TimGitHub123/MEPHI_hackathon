@@ -28,3 +28,9 @@
 2. `submission_si_formula.csv` - SI считается как CC50/IC50
 3. `submission_optuna_cat.csv` - после тюнинга CatBoost через Optuna
 4. `submission_optuna_full.csv` - после тюнинга Cat+ET через Optuna
+
+---
+## **Лучшее решение**
+Лучшим решением оказалось быстрое решение (`submission_fast.csv`)
+
+<img width="1241" height="178" alt="image" src="https://github.com/user-attachments/assets/b3a455f3-a0af-4691-a285-f6d88306fab3" />
